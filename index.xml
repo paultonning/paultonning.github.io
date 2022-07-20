@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tonning&#39;s Site</title>
+    <title>Paul Tonning</title>
     <link>https://tonningp.github.io/</link>
-    <description>Recent content on Tonning&#39;s Site</description>
+    <description>Recent content on Paul Tonning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Jul 2022 07:20:33 -0700</lastBuildDate><atom:link href="https://tonningp.github.io/index.xml" rel="self" type="application/rss+xml" />
