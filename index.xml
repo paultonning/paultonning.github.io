@@ -14,6 +14,8 @@
       
       <guid>https://tonningp.github.io/posts/second-post/</guid>
       <description>This is a second post.</description>
+      <content>&lt;p&gt;This is a second post.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -23,6 +25,8 @@
       
       <guid>https://tonningp.github.io/posts/my-first-post/</guid>
       <description>A Post with the title</description>
+      <content>&lt;p&gt;A Post with the title&lt;/p&gt;
+</content>
     </item>
     
   </channel>
